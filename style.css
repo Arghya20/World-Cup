@@ -108,7 +108,10 @@ body {
     width: 20%;
 }
 
-.box-color {
+.sidebar-box {
+    width: 100%;
+    padding: 30px 5px;
+    border-radius: 5px;
     border: 1px solid gray;
     display: flex;
     justify-content: center;
